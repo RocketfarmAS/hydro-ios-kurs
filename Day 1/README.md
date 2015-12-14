@@ -36,6 +36,54 @@ Lear
  5. Generics
  6. Error Handling
 
+## [Xcode](https://developer.apple.com/library/ios/documentation/ToolsLanguages/Conceptual/Xcode_Overview/index.html#//apple_ref/doc/uid/TP40010215)
+Learn to work with Xcode, its windows, components, settings and etc.
+
+* Xcode overview, Windows and components, (debug are, navigation, info) setting, shortcuts, etc 
+* Create new project
+* Targets
+* Workspace
+* Project file and Compile Setting
+* Schemas
+* Instruments
+
+
+## iOS Eco-System
+Learn iOS main components. [Developer Library](https://developer.apple.com/library/ios/navigation/).  
+
+* Star project overview. 
+  * AppDelegate
+  * Storyboard 
+  * Assets,
+  * Info.plist
+* UI, Interface Builder 
+* MVC. Model - View - Controller
+* Delegates
+* Design strategies
+
+Useful Links: 
+
+* [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/ios/referencelibrary/GettingStarted/DevelopiOSAppsSwift/index.html#//apple_ref/doc/uid/TP40015214)
+* [iPhoneOS ProgrammingGuide](https://developer.apple.com/library/ios/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072) 
+* [iOS Technology Overview](https://developer.apple.com/library/ios/documentation/Miscellaneous/Conceptual/iPhoneOSTechOverview/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007898)
+* [View](https://developer.apple.com/library/ios/documentation/WindowsViews/Conceptual/ViewPG_iPhoneOS/Introduction/Introduction.html#//apple_ref/doc/uid/TP40009503)
+* [View Controllers](https://developer.apple.com/library/ios/featuredarticles/ViewControllerPGforiPhoneOS/index.html#//apple_ref/doc/uid/TP40007457)
+
+UI
+  
+* [UIKit Catalog](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/UIKitUICatalog/index.html#//apple_ref/doc/uid/TP40012857) 
+* [iOS Human Interface Guidelines](https://developer.apple.com/library/ios/documentation/UserExperience/Conceptual/MobileHIG/index.html#//apple_ref/doc/uid/TP40006556) 
 
 
 
+## iOS patterns
+* Delegation
+* Target Action
+* UI coordinate system
+* Responsibility chain
+* Events
+* View Hierarchy 
+
+Links: 
+
+* [Cocoa Application Competencies for iOS](https://developer.apple.com/library/ios/documentation/General/Conceptual/Devpedia-CocoaApp/Animation.html)
